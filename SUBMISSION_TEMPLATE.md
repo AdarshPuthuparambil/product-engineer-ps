@@ -2,11 +2,11 @@
 
 ## Candidate
 
-- **Name:**
-- **Email:**
-- **GitHub:**
-- **Selected problem:**
-- **Demo video:**
+- **Name:Adarsh P A**
+- **Email: adarshputhuparambil324@gmail.com**
+- **GitHub: https://github.com/AdarshPuthuparambil**
+- **Selected problem: Problem 4: Observable Agent Loop Context**
+- **Demo video:** https://drive.google.com/file/d/14xgIfRdC5KzjYR2bhTYpUycYyUZYg5Wo/view?usp=drive_link
 
 ## Run the project
 
